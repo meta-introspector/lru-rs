@@ -2,3 +2,4 @@ target
 Cargo.lock
 **/*.rs.bk
 release.txtprocess-repo.log
+process-repo.log
